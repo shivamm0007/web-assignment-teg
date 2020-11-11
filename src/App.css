@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+body {
+  height: 100vh;
+  overflow: hidden;
+}
 
 .App-logo {
   height: 40vmin;

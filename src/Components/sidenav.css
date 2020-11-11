@@ -1,0 +1,53 @@
+.main-logo {
+  position: relative;
+  top: -6%;
+  bottom: 10;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(204, 131, 204);
+}
+.setting-logo {
+  position: relative;
+  bottom: -11%;
+  bottom: 10;
+}
+.sidebar {
+  height: 100%;
+  width: 60px;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(10, 6, 73);
+  overflow-x: hidden;
+  padding-top: 16px;
+}
+
+/* Style sidebar links */
+.sidebar img {
+  margin-top: 20px;
+  padding: 6px 8px 6px 6px;
+  max-width: 50px;
+  max-height: 45px;
+  display: flex;
+}
+
+/* Style links on mouse-over */
+.sidebar img:hover {
+  border: 1px solid skyblue;
+}
+/* Style the main content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+/* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
+@media screen and (max-height: 450px) {
+  .sidebar {
+    padding-top: 15px;
+  }
+  .sidebar a {
+    font-size: 18px;
+  }
+}

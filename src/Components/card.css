@@ -1,0 +1,41 @@
+.card-layout {
+  height: 130px;
+  min-width: 200px;
+  margin: 5px;
+  background: grey;
+  border-radius: 10px;
+  justify-content: center;
+  border: 1px solid black;
+}
+.test {
+  display: flex;
+  padding-left: 65px;
+  padding-top: 200px;
+}
+
+.card-layout:nth-child(1) {
+  background-color: rgb(32, 5, 94);
+}
+.card-layout:nth-child(2) {
+  background-color: rgb(28, 128, 86);
+}
+.card-layout:nth-child(3) {
+  background-color: gray;
+}
+.card-layout:nth-child(4) {
+  background-color: black;
+}
+.card-layout:nth-child(5) {
+  background-color: red;
+}
+.card-layout:nth-child(6) {
+  background-color: skyblue;
+}
+
+.card-details-name {
+  margin: 5px 0px 15px 0px;
+  max-width: 300px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
