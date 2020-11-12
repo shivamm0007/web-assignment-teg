@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shivamm0007/web-assignment-teg.git/static/css/main.3f46d85c.chunk.css",
+    "main.js": "/shivamm0007/web-assignment-teg.git/static/js/main.da88ca60.chunk.js",
+    "main.js.map": "/shivamm0007/web-assignment-teg.git/static/js/main.da88ca60.chunk.js.map",
+    "runtime-main.js": "/shivamm0007/web-assignment-teg.git/static/js/runtime-main.e3c54117.js",
+    "runtime-main.js.map": "/shivamm0007/web-assignment-teg.git/static/js/runtime-main.e3c54117.js.map",
+    "static/js/2.6f0c949b.chunk.js": "/shivamm0007/web-assignment-teg.git/static/js/2.6f0c949b.chunk.js",
+    "static/js/2.6f0c949b.chunk.js.map": "/shivamm0007/web-assignment-teg.git/static/js/2.6f0c949b.chunk.js.map",
+    "static/js/3.0b16ed1d.chunk.js": "/shivamm0007/web-assignment-teg.git/static/js/3.0b16ed1d.chunk.js",
+    "static/js/3.0b16ed1d.chunk.js.map": "/shivamm0007/web-assignment-teg.git/static/js/3.0b16ed1d.chunk.js.map",
+    "index.html": "/shivamm0007/web-assignment-teg.git/index.html",
+    "static/css/main.3f46d85c.chunk.css.map": "/shivamm0007/web-assignment-teg.git/static/css/main.3f46d85c.chunk.css.map",
+    "static/js/2.6f0c949b.chunk.js.LICENSE.txt": "/shivamm0007/web-assignment-teg.git/static/js/2.6f0c949b.chunk.js.LICENSE.txt",
+    "static/media/001-analytics.28f4e6ca.svg": "/shivamm0007/web-assignment-teg.git/static/media/001-analytics.28f4e6ca.svg",
+    "static/media/001-delivery-truck.be1a2d3c.svg": "/shivamm0007/web-assignment-teg.git/static/media/001-delivery-truck.be1a2d3c.svg",
+    "static/media/001-gear.94cf75d1.svg": "/shivamm0007/web-assignment-teg.git/static/media/001-gear.94cf75d1.svg",
+    "static/media/001-location.14384b48.svg": "/shivamm0007/web-assignment-teg.git/static/media/001-location.14384b48.svg",
+    "static/media/001-speedometer.faaee2f5.svg": "/shivamm0007/web-assignment-teg.git/static/media/001-speedometer.faaee2f5.svg",
+    "static/media/002-consultation.30424138.svg": "/shivamm0007/web-assignment-teg.git/static/media/002-consultation.30424138.svg",
+    "static/media/logo.103b5fa1.svg": "/shivamm0007/web-assignment-teg.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c54117.js",
+    "static/js/2.6f0c949b.chunk.js",
+    "static/css/main.3f46d85c.chunk.css",
+    "static/js/main.da88ca60.chunk.js"
+  ]
+}
