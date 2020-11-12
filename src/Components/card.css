@@ -7,12 +7,16 @@
   justify-content: center;
   border: 1px solid black;
 }
+
 .test {
   display: flex;
   padding-left: 65px;
   padding-top: 200px;
+  transition: transform 450s;
 }
-
+.test:hover {
+  transform: scale(1.08);
+}
 .card-layout:nth-child(1) {
   background-color: rgb(32, 5, 94);
 }
@@ -38,4 +42,8 @@
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: white;
+  transition: transform 450ms;
+}
+.card-details-name:hover {
+  transform: scale(1.08);
 }
